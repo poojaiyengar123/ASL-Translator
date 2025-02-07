@@ -48,7 +48,7 @@ Follow these steps to run ASL Translator locally:
     * Download an ASL dataset from Kaggle 
     * Generate your own training data
 
-        python3 generate_gesture_data.py
+            python3 generate_gesture_data.py
 
 3. Train the model:
 
